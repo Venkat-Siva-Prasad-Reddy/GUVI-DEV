@@ -1,0 +1,14 @@
+[
+{"type":"header","version":"5.0.2","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"guvi"},
+{"type":"table","name":"details","database":"guvi","data":
+[
+{"id":"17","user_id":"11","First_Name":"Venkata Siva Prasad Reddy","Last_Name":"Eppagunta","Age":"21","DOB":"1999-12-19","gender":"male","Contact":"9182259368"}
+]
+}
+,{"type":"table","name":"users","database":"guvi","data":
+[
+{"id":"11","username":"Venkat","email":"vtu8745@veltechuniv.edu.in","password":"$2y$10$Q0VEX2o7evgpBW8hwFNh0.c4xAW\/JUIZutpzlKIwoGnfmGDzc5Wq."}
+]
+}
+]
